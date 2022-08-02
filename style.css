@@ -1,0 +1,90 @@
+.menu{
+	width: 100%;
+	display: block;
+}
+nav{
+	background: beige;
+	width: 100%;
+	height: 100%;
+}
+.menu nav{
+	float: right;
+	width: 100%;
+}
+.menu nav ul{
+	list-style-type: none;
+	width: 100%;
+	padding : 0% 15%;
+}
+.menu nav ul li{
+	float: left;
+	padding-right: 25%;
+	color: black;
+}
+.menu nav ul li a {
+	display: inline-block;
+	text-decoration: none;
+	text-transform: uppercase;
+
+}
+body{
+	background: beige;
+	width: 100%;
+	height: 150%;
+	color: firebrick;
+}
+#container h1 {
+
+	 color: blue;
+	 font-family:arial ;
+}
+#container p{
+	color:firebrick;
+	font-family: arial;
+	font-size: 18px;
+	text-align: justify;
+}
+#container h2{
+	color:skyblue ;
+	font-family: impact;
+
+}
+.menu p{
+	color:firebrick;
+	font-family: arial;
+	font-size: 18px;
+	text-align: justify;
+}
+.menu h1{
+	color: royalblue;
+	font-family:arial 
+
+}
+.menu{
+	background: beige;
+	width: 120%;
+	height: 200%;
+}
+.menu nav ul{
+	list-style-type: none;
+	width: 100%;
+	padding : 0% 15%;
+}
+.menu nav ul li a {
+	display: inline-block;
+	text-decoration: none;
+	text-transform: uppercase;
+
+}
+.nael ul li{ 
+	color: beige;
+	font-family: arial;
+	font-size: 18%;
+
+
+
+}
+.photo p {
+	padding-bottom:25%;
+	text-align:center;
+}
